@@ -13,3 +13,5 @@ Pet is an interactive, gamified study application built to make learning efficie
 
 
 *Please note that the making of both the website and app was greatly helped by AI, as a non-tech student I tried my best to make it fully functionnal.*
+
+Just in case, i don't get any money, i don't get any data... School and studies should always be free from those who takes advantage of it.
